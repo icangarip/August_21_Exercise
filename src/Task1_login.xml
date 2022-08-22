@@ -1,0 +1,18 @@
+<suite name="Task1">
+    <test name="Test">
+        <parameter name="browser" value="chrome"></parameter>
+
+        <classes>
+            <class name="Website.Task1"></class>
+        </classes>
+
+    </test>
+
+
+
+
+
+
+
+
+</suite>
